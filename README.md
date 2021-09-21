@@ -1,9 +1,20 @@
+[![.NET](https://github.com/MakeContributions/DSA/actions/workflows/dotnet.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/dotnet.yml)
+[![C++](https://github.com/MakeContributions/DSA/actions/workflows/cpp.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/cpp.yml)
+[![Go](https://github.com/MakeContributions/DSA/actions/workflows/go.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/go.yml)
+[![Node.js CI](https://github.com/MakeContributions/DSA/actions/workflows/node.js.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/node.js.yml)
+[![Python](https://github.com/MakeContributions/DSA/actions/workflows/python.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/python.yml)
+[![codespell](https://github.com/MakeContributions/DSA/actions/workflows/codespell.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/codespell.yml)
+[![CodeQL](https://github.com/MakeContributions/DSA/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/codeql-analysis.yml)
+[![Discord](https://img.shields.io/discord/863049619734790185?color=7389D8&logo=discord&logoColor=ffffff&label=&labelColor=6A7EC2)](https://discord.gg/ydWxdqbTyK)
+
 # Data Structures and Algorithm
 
 Data structure and Algorithm (DSA)
 
 ## Explanations
 - [English](./docs/en)
+- [繁體中文](./docs/zh-tw)
+- [日本語](./docs/ja)
 
 ## Contribution Guidelines
 
@@ -102,22 +113,22 @@ The programming should keep the naming convention rule of each programming langu
 
 - [First-time contribution](CONTRIBUTING.md)
 
+## Reviewers
+
+| Programming Language | Users                                             |
+| -------------------- | ------------------------------------------------- |
+| C or C++             | @Arsenic-ATG, @UG-SEP, @aayushjain7, @Ashborn-SM  |
+| Java                 | @TawfikYasser, @cyberwizard1001, @aayushjain7     |
+| C#                   | @ming-tsai                                        |
+| Go                   | @atin                                             |
+| Python               | @Arsenic-ATG, @atin, @sridhar-5, @cyberwizard1001 |
+| JavaScript           | @ming-tsai                                        |
+
 ## Contributors
 
 <a href="https://github.com/MakeContributions/DSA/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MakeContributions/DSA" />
 </a>
-
-### Reviewers
-
-| Programming Language | Users                                             |
-| -------------------- | ------------------------------------------------- |
-| C or C++             | @Arsenic-ATG, @UG-SEP, @aayushjain7               |
-| Java                 | @TawfikYasser, @cyberwizard1001, @aayushjain7     |
-| C#                   | @ming-tsai                                        |
-| Go                   | @atin                                             |
-| Python               | @Arsenic-ATG, @atin, @sridhar-5, @cyberwizard1001 |
-| JavaScript           | @paulsonjpaul                                     |
 
 ## Open Graph
 
