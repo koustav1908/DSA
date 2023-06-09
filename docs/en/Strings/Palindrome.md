@@ -22,6 +22,7 @@ A palindrome is a word, phrase, number or sequence of words that reads the same 
 
 ## Implementation
 - [C](../../../algorithms/C/strings/palindrome.c)
+- [C++](../../../algorithms/CPlusPlus/Maths/palindrome.cpp)
 - [C#](../../../algorithms/CSharp/src/Strings/palindrome.cs)
 - [Haskell](../../../algorithms/Haskell/strings/palindrome.hs)
 - [Java](../../../algorithms/Java/strings/palindrome.java)
@@ -30,7 +31,7 @@ A palindrome is a word, phrase, number or sequence of words that reads the same 
 - [Rust](../../../algorithms/Rust/strings/palindrome/src/main.rs)
 
 ## Video URL
-* [A coursera video explaining the palindrome Algorithm](https://www.coursera.org/lecture/program-code/palindrome-algorithm-1-zzQqs) 
+[A coursera video explaining the palindrome Algorithm](https://www.coursera.org/lecture/program-code/palindrome-algorithm-1-zzQqs) 
 
 ## Others
 [Wikipedia](https://en.wikipedia.org/wiki/Palindrome)

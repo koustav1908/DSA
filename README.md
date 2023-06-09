@@ -1,9 +1,24 @@
+[![.NET](https://github.com/MakeContributions/DSA/actions/workflows/dotnet.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/dotnet.yml)
+[![C++](https://github.com/MakeContributions/DSA/actions/workflows/cpp.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/cpp.yml)
+[![Go](https://github.com/MakeContributions/DSA/actions/workflows/go.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/go.yml)
+[![Node.js CI](https://github.com/MakeContributions/DSA/actions/workflows/node.js.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/node.js.yml)
+[![Python](https://github.com/MakeContributions/DSA/actions/workflows/python.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/python.yml)
+[![codespell](https://github.com/MakeContributions/DSA/actions/workflows/codespell.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/codespell.yml)
+[![CodeQL](https://github.com/MakeContributions/DSA/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/codeql-analysis.yml)
+[![Discord](https://img.shields.io/discord/863049619734790185?color=7389D8&logo=discord&logoColor=ffffff&label=&labelColor=6A7EC2)](https://discord.gg/ydWxdqbTyK)
+
 # Data Structures and Algorithm
 
 Data structure and Algorithm (DSA)
 
 ## Explanations
+
 - [English](./docs/en)
+- [Español](./docs/es)
+- [Português](./docs/pt)
+- [Turkish](./docs/tr)
+- [繁體中文](./docs/zh-tw)
+- [日本語](./docs/ja)
 
 ## Contribution Guidelines
 
@@ -30,7 +45,7 @@ The file should conform to the `problem` specification, and the extension (**Eg.
 
 #### Project/Folder-based Contributions
 
-The project and folder-based contributions have a bit more stricter contribution contribution specifications.
+The project and folder-based contributions have a bit more stricter contribution specifications.
 
 The folder should conform to the `problem` specification, along with the following specifications
 
@@ -90,7 +105,7 @@ It can be any of the following ones
 
 #### Source Code File
 
-The source code files, should either be in `src/` folder (**Eg.** `src/main.cpp` or `src/main.js`) or the root folder (**Eg.** `palindrome.go` or `App.java`) where `ext` is the file extension for the specific programming language.
+The source code files should either be in `src/` folder (**Eg.** `src/main.cpp` or `src/main.js`) or the root folder (**Eg.** `palindrome.go` or `App.java`) where `ext` is the file extension for the specific programming language.
 
 Again, the source codes must conform to a valid file structure convention that the programming language enforces.
 
@@ -102,22 +117,22 @@ The programming should keep the naming convention rule of each programming langu
 
 - [First-time contribution](CONTRIBUTING.md)
 
+## Reviewers
+
+| Programming Language | Users                                                       |
+| -------------------- | ----------------------------------------------------------- |
+| C or C++             | @Arsenic-ATG, @UG-SEP, @aayushjain7, @Ashborn-SM, @Ashad001 |
+| Java                 | @TawfikYasser, @aayushjain7, @mohitchakraverty              |
+| C#                   | @ming-tsai, @Waqar-107                                      |
+| Go                   | @ayo-ajayi                                                  |
+| Python               | @Arsenic-ATG, @sridhar-5                                    |
+| JavaScript           | @ming-tsai                                                  |
+
 ## Contributors
 
 <a href="https://github.com/MakeContributions/DSA/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MakeContributions/DSA" />
 </a>
-
-### Reviewers
-
-| Programming Language | Users                                             |
-| -------------------- | ------------------------------------------------- |
-| C or C++             | @Arsenic-ATG, @UG-SEP, @aayushjain7               |
-| Java                 | @TawfikYasser, @cyberwizard1001, @aayushjain7     |
-| C#                   | @ming-tsai                                        |
-| Go                   | @atin                                             |
-| Python               | @Arsenic-ATG, @atin, @sridhar-5, @cyberwizard1001 |
-| JavaScript           | @paulsonjpaul                                     |
 
 ## Open Graph
 

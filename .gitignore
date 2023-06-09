@@ -10,3 +10,8 @@ Thumbs.db
 # binary files
 *.out
 *.class
+*.idea
+*.exe 
+
+# Visual Studio Code
+.vscode/
